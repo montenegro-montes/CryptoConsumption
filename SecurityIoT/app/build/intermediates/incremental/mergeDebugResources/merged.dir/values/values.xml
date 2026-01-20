@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="RadioBmac">MAC</string>
+    <string name="app_name">Security_IOT</string>
+    <string name="asymmetric">ASymmetric</string>
+    <string name="batchmode_asymmetric">Asymmetric</string>
+    <string name="batchmode_symmetric">Symmetric</string>
+    <string name="calculatehash">Calculate</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="consumption_cryptographic">Consumption Cryptographic</string>
+    <string name="go">Go!</string>
+    <string name="hash">Communications</string>
+    <string name="hashLETRERO">HASH</string>
+    <string name="hashRadioB">HASH</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="input">Input:</string>
+    <string name="key">Key..</string>
+    <string name="key_static">KEY:</string>
+    <string name="mac">MAC</string>
+    <string name="output">Output...</string>
+    <string name="outputStatic">OUTPUT:</string>
+    <string name="progress">Progress...</string>
+    <string name="ssl">SSL</string>
+    <string name="symmetric">Symmetric</string>
+    <string name="title_activity_batch_mode">BatchMode</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/drawable/fondo.jpg",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/drawable/fondo.jpg"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/drawable/key.png",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/drawable/key.png"
+    }
+]

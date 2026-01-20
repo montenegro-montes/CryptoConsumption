@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_batch_mode_asymmetric.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_batch_mode_asymmetric.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_batch_mode_hash_mac.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_batch_mode_hash_mac.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/spineer_item.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/spineer_item.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_batch_mode_symmetric.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_batch_mode_symmetric.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_hash.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_hash.xml"
+    },
+    {
+        "merged": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/build/intermediates/res/merged/debug/layout/activity_batch_mode_comm.xml",
+        "source": "/Users/joseamontenegromontes/Desktop/Android Code/SecurityVX/app/src/main/res/layout/activity_batch_mode_comm.xml"
+    }
+]
