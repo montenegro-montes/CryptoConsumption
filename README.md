@@ -153,7 +153,7 @@ For questions, feedback, or collaboration inquiries:
 
 * **José A. Montenegro**
   University of Málaga (UMA)
-  Email: [monte@lcc.uma.es](mailto:monte@lcc.uma.es)
+  Email: [jmmontes@uma.es](mailto:jmmontes@uma.es)
 
 ---
 
