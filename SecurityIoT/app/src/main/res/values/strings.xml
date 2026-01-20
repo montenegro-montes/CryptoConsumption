@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Security_IOT</string>
+    <string name="asymmetric">ASymmetric</string>
+    <string name="consumption_cryptographic">Consumption Cryptographic</string>
+    <string name="hash">Communications</string>
+    <string name="ssl">SSL</string>
+    <string name="symmetric">Symmetric</string>
+    <string name="calculatehash">Calculate</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="input">Input:</string>
+    <string name="output">Output...</string>
+    <string name="hashLETRERO">HASH</string>
+    <string name="mac">MAC</string>
+    <string name="key">Key..</string>
+    <string name="hashRadioB">HASH</string>
+    <string name="RadioBmac">MAC</string>
+    <string name="key_static">KEY:</string>
+    <string name="outputStatic">OUTPUT:</string>
+    <string name="title_activity_batch_mode">BatchMode</string>
+    <string name="batchmode_symmetric">Symmetric</string>
+    <string name="batchmode_asymmetric">Asymmetric</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="go">Go!</string>
+    <string name="progress">Progress...</string>
+</resources>
